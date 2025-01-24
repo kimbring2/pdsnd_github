@@ -45,7 +45,9 @@ def get_filters():
             break
         else:
             print("type one of \'all\', \'monday\', \'tuesday\', \'wendsday\', \'thursday\', \'friday\', \'saturday\', \'sunday\'")      
+    
     print('-'*40)
+    
     return city, month, day
 
 
