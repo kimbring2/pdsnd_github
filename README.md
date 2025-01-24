@@ -1,5 +1,3 @@
-> **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 
 01.24.2025
@@ -15,6 +13,12 @@ In this project, you will make use of Python to explore data related to bike sha
 ### Files used
 
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a **bikeshare.py** file, and you will do your scripting in there also. You will need the three city dataset files too:
+
+### How to run?
+
+```
+$ python bikeshare.py
+```
 
 ### Credits
 
