@@ -45,7 +45,9 @@ def get_filters():
             break
         else:
             print("type one of \'all\', \'monday\', \'tuesday\', \'wendsday\', \'thursday\', \'friday\', \'saturday\', \'sunday\'")      
+    
     print('-'*40)
+    
     return city, month, day
 
 
@@ -236,6 +238,7 @@ def user_stats(df):
 
 
 def main():
+    # Run applicaiton until user stop it.
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
