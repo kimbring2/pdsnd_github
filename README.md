@@ -14,6 +14,10 @@ In this project, you will make use of Python to explore data related to bike sha
 
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a **bikeshare.py** file, and you will do your scripting in there also. You will need the three city dataset files too:
 
+### Dataset
+
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core **six (6)** columns:
+
 ### How to run?
 
 ```
